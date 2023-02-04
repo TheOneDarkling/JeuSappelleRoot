@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/V-Event_F1/Desktop/Nouveau dossier/JeuSappelleRoot/JeuSappelleRoot/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
+				"C:/Users/V-Event_F1/Desktop/Nouveau dossier/JeuSappelleRoot/JeuSappelleRoot/Content/Levels/Level_SpawnSystem.umap"
+			]
+		}
+	]
+}
